@@ -1,7 +1,19 @@
 
+body, html {
+  width: 100%;
+  height: 100%;
+
+  margin: 0px;
+  padding: 0px;
+}
+
 #nav {
   display: flex;
   justify-content: space-between;
+
+  background-color: #01161E;
+
+  padding: 20px;
 }
 .nav-options {
   display: flex;
